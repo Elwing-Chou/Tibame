@@ -7,3 +7,7 @@
 八卦版(大): https://drive.google.com/open?id=15byko6d_9VJGPOW7DPAN8YiVsleRiURr
 
 整理過的CSV: https://drive.google.com/open?id=133yqiKkPPW6rGlrheRnZ96gIsGeznLPs
+
+## colab:
+
+https://colab.research.google.com/drive/1OZdHwjtw0p0vzuzMHd7Uln-MDaT8jLcM#scrollTo=1LO3G2iQ_MGz
